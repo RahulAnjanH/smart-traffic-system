@@ -1,1 +1,10 @@
 streamlit
+
+# ── Standard Library (no install needed) ──────────────────────────────────
+# socket        — TCP P2P communication
+# threading     — concurrent signals, controller, listener, relay
+# json          — message serialization
+# struct        — wire-format framing (length-prefix)
+# queue         — simulated MOM message queues
+# time          — timestamps for LWW consistency
+# argparse      — CLI argument parsing
